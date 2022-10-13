@@ -1,0 +1,16 @@
+.dish{
+    width: 1200px;
+    height: auto;
+}
+
+.header{
+    font-family: cursive;
+}
+
+.ingredients{
+    background-color: #ffff00;
+}
+
+.directions{
+    background-color: #00ff00;
+}
